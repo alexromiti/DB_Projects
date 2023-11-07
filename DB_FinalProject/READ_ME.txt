@@ -1,0 +1,1 @@
+En este proyecto se generó una base de datos simulando una tienda, se rellenó de valores aleatorios y utilizando MYSQL y python se realizó un dashboard para visualizar los datos más relevantes relacionados a las ventas de la tienda, con una interfaz gráfica hecha con streamlit.
